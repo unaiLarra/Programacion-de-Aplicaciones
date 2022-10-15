@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-14T18:41:00.606837700Z</date>
+  <millis>1665772860606</millis>
+  <nanos>837700</nanos>
+  <sequence>0</sequence>
+  <logger>ud.prog3.pr01.ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>ud.prog3.pr01.ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>20</thread>
+  <message>Añadiendo ficheros con filtro .*Pentatonix.*\.mp4</message>
+</record>
